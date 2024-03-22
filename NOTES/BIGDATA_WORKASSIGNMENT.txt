@@ -1,0 +1,7 @@
+DATA MERGING - Nithish
+DATA CLEANING- DEEPLAXMI
+EDA - HRITHIK 
+FEATURE EXTRACTION - RAHUL
+build ML Model - 
+make recommendations
+improve optimization
